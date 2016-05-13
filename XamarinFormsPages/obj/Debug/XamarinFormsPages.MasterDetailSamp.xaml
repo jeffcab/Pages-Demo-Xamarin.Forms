@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="XamarinFormsPages.MasterDetailSamp"
+	Title="MasterDetailPage">
+
+    	<MasterDetailPage.Master>
+    		<ContentPage Title="Master" BackgroundColor = "Transparent">
+	    		<Label Text="This is the Master page."
+	    			TextColor = "Black"
+	    			HorizontalOptions = "Center"
+	    			VerticalOptions = "Center" />
+	    	</ContentPage>
+    	</MasterDetailPage.Master>
+
+    	<MasterDetailPage.Detail>
+    		<ContentPage Title="Detail" BackgroundColor="Yellow">
+    			<Label Text="This is the Detail page."
+    				TextColor = "Black"
+    				HorizontalOptions = "Center"
+    				VerticalOptions = "Center" />
+    		</ContentPage>
+    	</MasterDetailPage.Detail>
+
+</MasterDetailPage>

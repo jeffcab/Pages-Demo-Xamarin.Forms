@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="iOS/XamarinFormsPages.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsPages/PagesDemoXaml.xaml">
+    <Files>
+      <File FileName="XamarinFormsPages/MasterDetailSamp.xaml" Line="11" Column="7" />
+      <File FileName="XamarinFormsPages/MasterDetailSamp.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsPages/XamarinFormsPages.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsPages/PagesDemoXaml.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
